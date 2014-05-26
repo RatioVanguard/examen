@@ -1,0 +1,31 @@
+1;Wiskunde I;Tanja Van Hecke;6
+1;Mechanica;Tom Claessens;6
+1;Algemen Chemie;Karoline De Doncker;6
+1;Elektriciteit;Anita Van der Maelen;6
+1;Milieubeheer;Ben Minnaert;3
+1;Ingenieursproject;Johan D'heer;3
+1;Wiskunde II;Tanja Van Hecke;6
+1;Fysica I;Toon Van Alboom;6
+1;Informatica I;Geert Van hoogenbemt;3
+2;Wiskunde III;Peter Van Lancker;3
+2;Statistiek;Tanje Van Hecke;3
+2;Fysica II;Toon Van Alboom;3
+2;Signalen en systemen;Jan Beyens;6
+2;Toegepaste stromings- en energieleer;Tom Claessens;3
+2;Informatica II;Helga Naessens;6
+2;Besturingssystemen I;Joris Moreau;6
+2;Computernetwerken I: basisprotocollen;Joris Moreau;3
+2;Programmeren in C en C++;Rudy Stoop;6
+2;Digitale elektronica;Paul Devos;6
+2;Software Ontwikkeling I;Jan Cnops;6
+2;Computerhardware;Wim Van den Breen;6
+3;Computernetwerken II;Veerle Ongenae;6
+3;Bedrijfsbeleid;Kathy Schaubroeck;3
+3;Besturingssystemen II;Geert Van hoogenbemt;6
+3;Gegevensbanken I en II;Joris Moreau;6
+3;Systeemanalyse en ontwerp I;Jan Cnops;3
+3;Discrete wiskunde;Leen Brouns;3
+3;Computernetwerken III;Joris Moreau;6
+3;Algoritmen I;Rudy Stoop;6
+3;Vakoverschijdend eindproject;Helga Naessens;6
+
